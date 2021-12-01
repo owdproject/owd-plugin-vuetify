@@ -1,0 +1,25 @@
+{
+  "name": "owd-plugin-vuetify",
+  "version": "0.0.1",
+  "keywords": [
+    "owd",
+    "open web desktop",
+    "plugin",
+    "vuetify"
+  ],
+  "homepage": "https://github.com/owdproject/owd-plugin-vuetify#readme",
+  "bugs": {
+    "url": "https://github.com/owdproject/owd-plugin-vuetify/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owdproject/owd-plugin-vuetify.git"
+  },
+  "author": {
+    "name": "hacklover",
+    "url": "https://github.com/hacklover"
+  },
+  "devDependencies": {
+    "vuetify": "^3.0.0-alpha.12"
+  }
+}
