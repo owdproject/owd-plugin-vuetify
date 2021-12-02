@@ -1,6 +1,6 @@
 {
   "name": "owd-plugin-vuetify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "owd",
     "open web desktop",
@@ -19,7 +19,7 @@
     "name": "hacklover",
     "url": "https://github.com/hacklover"
   },
-  "devDependencies": {
+  "dependencies": {
     "vuetify": "^3.0.0-alpha.12"
   }
 }
